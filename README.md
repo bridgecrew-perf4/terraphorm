@@ -1,4 +1,4 @@
-<p align="center"><img src="https://hustl.cloud/assets/img/terraphorm.png"></p>
+<p align="center"><img src="https://hustl.cloud/terraphorm_logo.png"></p>
 
 # terraphorm
 A PHP Wrapper for Terraform
