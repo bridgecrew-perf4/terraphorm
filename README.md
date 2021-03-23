@@ -1,13 +1,8 @@
+<p align="center"><img src="https://hustl.cloud/assets/img/terraphorm.png"></p>
+
 # terraphorm
 A PHP Wrapper for Terraform
 
 ## Prerequisites
 
-- Install Terraform binary
-
-
-
-
-# Components Used
-
-- https://symfony.com/doc/current/components/process.html
+- You must have HashiCorp's Terraform binaries installed on the system.
